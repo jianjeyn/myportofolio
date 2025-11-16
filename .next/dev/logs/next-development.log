@@ -1,0 +1,357 @@
+[00:00:05.773] Server  LOG      ✓ Ready in 3.7s
+[00:00:08.831] Server  LOG      ○ Compiling /portfolio ...
+[00:00:15.186] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:15.712] Browser WARN    Image with src "/assets/portoframe.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:15.712] Browser WARN    Image with src "/assets/p12.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:15.712] Browser WARN    Image with src "/assets/p-dashboard.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:15.712] Browser WARN    Image with src "/assets/p-saham1.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:15.712] Browser WARN    Image with src "/assets/p-recipe.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:15.712] Browser WARN    Image with src "/assets/p-search1.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:15.712] Browser WARN    Image with src "/assets/pjf.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:15.712] Browser WARN    Image with src "/assets/p-grafikom.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:16.922] Server  LOG      ✓ Compiled in 398ms
+[00:14:07.918] Server  LOG      ✓ Compiled in 889ms
+[00:15:15.232] Server  LOG      ✓ Compiled in 424ms
+[00:16:56.698] Server  LOG      ✓ Compiled in 576ms
+[00:17:25.383] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:17:25.587] Browser WARN    Image with src "/assets/frame2.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:25.587] Browser WARN    Image with src "/assets/el1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:17:25.587] Browser WARN    Image with src "/assets/seeporto.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:17:26.256] Browser WARN    Image with src "/assets/stnotes.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:19:31.524] Server  LOG      ✓ Compiled in 798ms
+[00:19:31.984] Browser WARN    Image with src "/assets/line.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:20:23.065] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:23.680] Browser WARN    Image with src "/assets/el1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:20:23.680] Browser WARN    Image with src "/assets/seeporto.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:20:23.680] Browser WARN    Image with src "/assets/frame2.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:20:24.943] Browser WARN    Image with src "/assets/line.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:20:24.943] Browser WARN    Image with src "/assets/stnotes.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:20:48.098] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:20:48.102] Browser WARN    Image with src "/assets/portoframe.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:20:48.102] Browser WARN    Image with src "/assets/p12.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:20:48.102] Browser WARN    Image with src "/assets/p-dashboard.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:20:48.102] Browser WARN    Image with src "/assets/p-saham1.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:20:48.526] Browser WARN    Image with src "/assets/p-search1.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:20:48.526] Browser WARN    Image with src "/assets/p-recipe.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:20:48.526] Browser WARN    Image with src "/assets/pjf.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:20:48.526] Browser WARN    Image with src "/assets/p-grafikom.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:26:20.910] Server  LOG      ✓ Compiled in 596ms
+[00:26:21.935] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'projects')
+[00:26:42.056] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:26:42.705] Server  LOG      ✓ Compiled in 1375ms
+[00:26:45.271] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:45.271] Browser WARN    Image with src "/assets/portoframe.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:26:45.271] Browser WARN    Image with src "/assets/p12.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:26:45.271] Browser WARN    Image with src "/assets/p-dashboard.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:26:45.401] Browser WARN    Image with src "/assets/p-saham1.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:26:45.401] Browser WARN    Image with src "/assets/p-recipe.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:26:45.401] Browser WARN    Image with src "/assets/p-search1.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:26:45.401] Browser WARN    Image with src "/assets/pjf.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:26:45.401] Browser WARN    Image with src "/assets/p-grafikom.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:26:48.361] Browser WARN    Image with src "/assets/p11.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:27:57.381] Server  LOG      ✓ Compiled in 1008ms
+[00:28:01.945] Server  LOG      ✓ Compiled in 520ms
+[00:28:04.019] Server  LOG      ✓ Compiled in 612ms
+[00:28:08.810] Server  LOG      ✓ Compiled in 358ms
+[00:28:11.529] Server  LOG      ✓ Compiled in 341ms
+[00:28:13.731] Server  LOG      ✓ Compiled in 293ms
+[00:28:18.984] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:19.259] Browser WARN    Image with src "/assets/portoframe.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:19.259] Browser WARN    Image with src "/assets/p12.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:19.259] Browser WARN    Image with src "/assets/p-dashboard.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:19.259] Browser WARN    Image with src "/assets/p-saham1.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:19.259] Browser WARN    Image with src "/assets/p-recipe.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:19.259] Browser WARN    Image with src "/assets/p-search1.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:19.259] Browser WARN    Image with src "/assets/pjf.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:19.259] Browser WARN    Image with src "/assets/p-grafikom.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:23.959] Browser WARN    Image with src "/assets/p11.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:28.212] Browser WARN    Image with src "/assets/p25.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:45.014] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:45.217] Browser WARN    Image with src "/assets/portoframe.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:45.217] Browser WARN    Image with src "/assets/p12.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:45.217] Browser WARN    Image with src "/assets/p-dashboard.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:45.217] Browser WARN    Image with src "/assets/p-saham1.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:45.217] Browser WARN    Image with src "/assets/p-recipe.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:45.217] Browser WARN    Image with src "/assets/p-search1.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:45.217] Browser WARN    Image with src "/assets/pjf.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:45.217] Browser WARN    Image with src "/assets/p-grafikom.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:45.631] Browser WARN    Image with src "/assets/portoframe.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:28:47.063] Browser WARN    Image with src "/assets/p11.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:29:22.017] Server  LOG      ✓ Compiled in 407ms
+[00:29:28.579] Server  LOG      ✓ Compiled in 308ms
+[00:30:04.170] Server  LOG      ✓ Compiled in 311ms
+[00:30:18.061] Server  LOG      ✓ Compiled in 571ms
+[00:30:24.015] Server  LOG      ✓ Compiled in 481ms
+[00:30:25.759] Server  LOG      ✓ Compiled in 350ms
+[00:30:27.131] Server  LOG      ✓ Compiled in 518ms
+[00:30:56.727] Server  LOG      ✓ Compiled in 421ms
+[00:30:57.939] Browser ERROR   ./app/i18n/translations.js:161:56
+Parsing ecmascript source code failed
+  159 |             ],
+  160 |             tech: ["React", "Node.js", "MongoDB", "Socket.io"],
+> 161 |             role: "Website Developer & Data Researcher"",
+      |                                                        ^^
+  162 |             duration: "3 months",
+  163 |             link: "https://ecoscha.com",
+  164 |           },
+
+Unterminated string constant
+
+Import traces:
+  Client Component Browser:
+    ./app/i18n/translations.js [Client Component Browser]
+    ./app/portfolio/page.js [Client Component Browser]
+    ./app/portfolio/page.js [Server Component]
+
+  Client Component SSR:
+    ./app/i18n/translations.js [Client Component SSR]
+    ./app/portfolio/page.js [Client Component SSR]
+    ./app/portfolio/page.js [Server Component]
+[00:31:00.339] Server  LOG      ✓ Compiled in 300ms
+[00:31:05.559] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:05.793] Browser WARN    Image with src "/assets/portoframe.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:31:05.793] Browser WARN    Image with src "/assets/p12.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:31:05.793] Browser WARN    Image with src "/assets/p-dashboard.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:31:05.793] Browser WARN    Image with src "/assets/p-saham1.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:31:05.793] Browser WARN    Image with src "/assets/p-recipe.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:31:05.793] Browser WARN    Image with src "/assets/p-search1.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:31:05.793] Browser WARN    Image with src "/assets/pjf.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:31:05.793] Browser WARN    Image with src "/assets/p-grafikom.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:31:07.363] Browser WARN    Image with src "/assets/p11.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:32:41.549] Server  LOG      ✓ Compiled in 140ms
+[00:32:41.929] Browser ERROR   ./app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: C:\Self Project\myportofolio\app\globals.css:213:1: Unknown word `
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Parser.unknownWord (turbopack:///[project]/node_modules/postcss/lib/parser.js:595:22)]
+    [at Parser.other (turbopack:///[project]/node_modules/postcss/lib/parser.js:437:12)]
+    [at Parser.parse (turbopack:///[project]/node_modules/postcss/lib/parser.js:472:16)]
+    [at parse (turbopack:///[project]/node_modules/postcss/lib/parse.js:11:12)]
+    [at new LazyResult (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:165:16)]
+    [at Processor.process (turbopack:///[project]/node_modules/postcss/lib/processor.js:53:14)]
+    [at transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:51)]
+    [at run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:29)]
+    [at run (turbopack:///[turbopack-node]/ipc/evaluate.ts:115:11)]
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.js [Server Component]
+[00:32:52.646] Server  LOG      ✓ Compiled in 1098ms
+[00:34:49.364] Server  LOG      ✓ Compiled in 829ms
+[00:38:59.971] Server  LOG      ✓ Compiled in 548ms
+[00:39:00.939] Browser ERROR   ./app/i18n/translations.js:397:5
+Parsing ecmascript source code failed
+  395 | }
+  396 |
+> 397 |     portfolio: {
+      |     ^^^^^^^^^
+  398 |       title: "Portofolio Saya",
+  399 |       backToHome: "Kembali ke Beranda",
+  400 |       modal: {
+
+Expected ',', got 'portfolio'
+
+Import traces:
+  Client Component Browser:
+    ./app/i18n/translations.js [Client Component Browser]
+    ./app/portfolio/page.js [Client Component Browser]
+    ./app/portfolio/page.js [Server Component]
+
+  Client Component SSR:
+    ./app/i18n/translations.js [Client Component SSR]
+    ./app/portfolio/page.js [Client Component SSR]
+    ./app/portfolio/page.js [Server Component]
+[00:39:01.941] Browser ERROR   ./app/i18n/translations.js:396:5
+Parsing ecmascript source code failed
+  394 |   ],
+  395 | }
+> 396 |     portfolio: {
+      |     ^^^^^^^^^
+  397 |       title: "Portofolio Saya",
+  398 |       backToHome: "Kembali ke Beranda",
+  399 |       modal: {
+
+Expected ',', got 'portfolio'
+
+Import traces:
+  Client Component Browser:
+    ./app/i18n/translations.js [Client Component Browser]
+    ./app/portfolio/page.js [Client Component Browser]
+    ./app/portfolio/page.js [Server Component]
+
+  Client Component SSR:
+    ./app/i18n/translations.js [Client Component SSR]
+    ./app/portfolio/page.js [Client Component SSR]
+    ./app/portfolio/page.js [Server Component]
+[00:39:03.319] Server  LOG      ✓ Compiled in 673ms
+[00:39:10.818] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:39:11.179] Browser WARN    Image with src "/assets/portoframe.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:39:11.179] Browser WARN    Image with src "/assets/p12.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:39:11.179] Browser WARN    Image with src "/assets/p-dashboard.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:39:11.179] Browser WARN    Image with src "/assets/p-saham1.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:39:11.179] Browser WARN    Image with src "/assets/p-recipe.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:39:11.179] Browser WARN    Image with src "/assets/p-search1.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:39:11.179] Browser WARN    Image with src "/assets/pjf.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:39:11.179] Browser WARN    Image with src "/assets/p-grafikom.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:39:12.980] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:39:13.191] Browser WARN    Image with src "/assets/frame2.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:39:13.191] Browser WARN    Image with src "/assets/el1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:39:13.191] Browser WARN    Image with src "/assets/seeporto.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:39:13.191] Browser WARN    Image with src "/assets/line.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:39:13.191] Browser WARN    Image with src "/assets/stnotes.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:41:58.946] Server  LOG      ✓ Compiled in 1615ms
+[00:41:59.993] Browser ERROR   ./app/i18n/translations.js:403:5
+Parsing ecmascript source code failed
+  401 |   ],
+  402 | }
+> 403 |     portfolio: {
+      |     ^^^^^^^^^
+  404 |       title: "Portofolio Saya",
+  405 |       backToHome: "Kembali ke Beranda",
+  406 |       modal: {
+
+Expected ',', got 'portfolio'
+
+Import traces:
+  Client Component Browser:
+    ./app/i18n/translations.js [Client Component Browser]
+    ./app/portfolio/page.js [Client Component Browser]
+    ./app/portfolio/page.js [Server Component]
+
+  Client Component SSR:
+    ./app/i18n/translations.js [Client Component SSR]
+    ./app/portfolio/page.js [Client Component SSR]
+    ./app/portfolio/page.js [Server Component]
+[00:43:03.044] Server  LOG      ✓ Compiled in 1117ms
+[00:43:07.909] Server  LOG      ✓ Compiled in 1342ms
+[00:43:14.404] Server  LOG      ✓ Compiled in 1182ms
+[00:43:18.798] Server  LOG      ✓ Compiled in 2.3s
+[00:43:21.410] Server  LOG      ✓ Compiled in 2.1s
+[00:43:30.614] Server  LOG      ✓ Compiled in 8.7s
+[00:45:29.493] Server  LOG      ✓ Compiled in 1138ms
+[00:45:29.929] Browser ERROR   ./app/i18n/translations.js:144:5
+Parsing ecmascript source code failed
+  142 | }
+  143 |
+> 144 |     portfolio: {
+      |     ^^^^^^^^^
+  145 |       title: "My Portfolio",
+  146 |       backToHome: "Back to Home",
+  147 |       modal: {
+
+Expected ',', got 'portfolio'
+
+Import traces:
+  Client Component Browser:
+    ./app/i18n/translations.js [Client Component Browser]
+    ./app/portfolio/page.js [Client Component Browser]
+    ./app/portfolio/page.js [Server Component]
+
+  Client Component SSR:
+    ./app/i18n/translations.js [Client Component SSR]
+    ./app/portfolio/page.js [Client Component SSR]
+    ./app/portfolio/page.js [Server Component]
+[00:45:29.929] Browser ERROR   ./app/i18n/translations.js:143:5
+Parsing ecmascript source code failed
+  141 |   ],
+  142 | }
+> 143 |     portfolio: {
+      |     ^^^^^^^^^
+  144 |       title: "My Portfolio",
+  145 |       backToHome: "Back to Home",
+  146 |       modal: {
+
+Expected ',', got 'portfolio'
+
+Import traces:
+  Client Component Browser:
+    ./app/i18n/translations.js [Client Component Browser]
+    ./app/portfolio/page.js [Client Component Browser]
+    ./app/portfolio/page.js [Server Component]
+
+  Client Component SSR:
+    ./app/i18n/translations.js [Client Component SSR]
+    ./app/portfolio/page.js [Client Component SSR]
+    ./app/portfolio/page.js [Server Component]
+[00:45:38.148] Server  LOG      ✓ Compiled in 891ms
+[00:47:27.641] Server  LOG      ✓ Compiled in 904ms
+[00:47:32.670] Server  LOG      ✓ Compiled in 593ms
+[00:47:47.868] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:48.089] Browser WARN    Image with src "/assets/frame2.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:47:48.205] Browser WARN    Image with src "/assets/line.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:47:48.205] Browser WARN    Image with src "/assets/stnotes.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:48:00.226] Server  LOG      ✓ Compiled in 805ms
+[00:48:01.161] Server  LOG      ✓ Compiled in 682ms
+[00:48:16.675] Server  LOG      ✓ Compiled in 1581ms
+[00:48:19.151] Server  LOG      ✓ Compiled in 1168ms
+[00:48:53.283] Server  LOG      ✓ Compiled in 15.8s
+[00:48:57.259] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:48:58.939] Browser WARN    Image with src "/assets/frame2.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:48:58.939] Browser WARN    Image with src "/assets/line.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:48:58.939] Browser WARN    Image with src "/assets/stnotes.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:49:02.555] Server  LOG      ✓ Compiled in 677ms
+[00:49:13.696] Server  LOG      ✓ Compiled in 1159ms
+[00:49:24.830] Server  LOG      ✓ Compiled in 4.3s
+[00:49:24.875] Browser WARN    Image with src "/assets/seeporto.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:49:39.578] Server  LOG      ✓ Compiled in 2.3s
+[00:49:54.163] Server  LOG      ✓ Compiled in 1749ms
+[00:50:00.913] Server  LOG      ✓ Compiled in 2.5s
+[00:50:22.831] Server  LOG      ✓ Compiled in 2.8s
+[00:50:44.637] Server  LOG      ✓ Compiled in 6.1s
+[00:50:48.765] Server  LOG      ✓ Compiled in 762ms
+[00:50:50.550] Server  LOG      ✓ Compiled in 984ms
+[00:51:15.009] Server  LOG      ✓ Compiled in 438ms
+[00:51:18.562] Browser ERROR   ./app/page.js:117:18
+Parsing ecmascript source code failed
+  115 |       year: "2025",
+  116 |       position: { top: "53%", left: "40%" },
+> 117 |       rotation: -2deg",
+      |                  ^
+  118 |       textOffset: { x: "16%", y: "8%" },
+  119 |     },
+  120 |     {
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+  Client Component SSR:
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+[00:51:18.562] Browser ERROR   ./app/page.js:117:19
+Parsing ecmascript source code failed
+  115 |       year: "2025",
+  116 |       position: { top: "53%", left: "40%" },
+> 117 |       rotation: -2deg",
+      |                   ^
+  118 |       textOffset: { x: "16%", y: "8%" },
+  119 |     },
+  120 |     {
+
+Identifier cannot follow number
+
+Import traces:
+  Client Component Browser:
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+  Client Component SSR:
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+[00:51:19.830] Server  LOG      ✓ Compiled in 1757ms
+[00:52:03.385] Server  LOG      ✓ Compiled in 2.2s
+[00:52:38.112] Browser WARN    Image with src "/assets/el1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:52:45.873] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:52:45.873] Browser WARN    Image with src "/assets/portoframe.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:52:45.873] Browser WARN    Image with src "/assets/p-dashboard.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:52:45.873] Browser WARN    Image with src "/assets/p-recipe.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:52:45.873] Browser WARN    Image with src "/assets/p12.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:52:45.873] Browser WARN    Image with src "/assets/p-saham1.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:52:45.873] Browser WARN    Image with src "/assets/p-grafikom.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:52:45.873] Browser WARN    Image with src "/assets/pjf.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:52:45.873] Browser WARN    Image with src "/assets/p-search1.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
